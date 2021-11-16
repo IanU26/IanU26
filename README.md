@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there - I'm Ian👋
 I am a recent UCLA graduate with a B.S. in physics. I am looking to enter the tech space as a software engineer. Here I practice writing code as I learn more and more about computer science. 
 ### Programming Experience
-![Python](https://img.shields.io/badge/python-#3776AB?style=for-the-badge&logo=Python&logoColor=Blue)
-![R](https://img.shields.io/badge/R-#276DC3?style=for-the-badge&logo=R&logoColor=Blue)
-![C++](https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=C++&logoColor=Black)  
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=Blue)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=Black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=Black)  
 MATLAB || SQL 
