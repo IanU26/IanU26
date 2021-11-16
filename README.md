@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 ### Hi there - I'm Ian👋
 
 ### Programming Experience
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=Blue)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=Black)
--MATLAB
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=Blue)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=Black)  
+MATLAB
