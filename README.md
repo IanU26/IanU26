@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ### Hi there - I'm Ian👋
 
 Programming Experience
-![<Linkedin>](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=White)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=Blue)
