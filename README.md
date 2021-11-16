@@ -18,5 +18,5 @@ I am a recent UCLA graduate with a B.S. in physics. I am looking to enter the te
 ### Programming Experience
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=Blue)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=Black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=Black)  
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=C++&logoColor=Black)  
 MATLAB || SQL 
