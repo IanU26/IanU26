@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there - I'm Ian<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am a recent UCLA graduate with a B.S. in physics. I am looking to enter the tech space as a software engineer. Here I practice writing code and post it as I learn more and more about computer science. I also have some repositories that include a bit of the work I did at UCLA in the areas of particle physics and coherent diffractive imaging. Feel free to reach out to me for anything related to my projects here!  
+I am a recent UCLA graduate with a B.S. in physics. I am looking to enter the tech space as a software engineer. Here I practice writing code and post it as I learn more about computer science. I also have some repositories that include a bit of the work I did at UCLA in the areas of particle physics and coherent diffractive imaging. Feel free to reach out to me for anything related to my projects here!  
 Ianulrich25@gmail.com  
 Pronouns: He/Him  
 ### Programming Experience
