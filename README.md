@@ -20,5 +20,6 @@ Pronouns: He/Him
 ### Programming Experience
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=White)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=Black)
+![Latex](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=Green)
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=C++&logoColor=Black)  
 MATLAB || SQL - No fun icons :(
