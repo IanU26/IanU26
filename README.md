@@ -24,4 +24,4 @@ Pronouns: He/Him
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=C++&logoColor=Black)  
 MATLAB || SQL - No fun icons :(  
 ### Other Software  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=GIT&logoColor=Black)
+![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=GIT&logoColor=Black)
