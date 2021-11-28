@@ -22,4 +22,6 @@ Pronouns: He/Him
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=Blue)
 ![Latex](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=Green)
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=C++&logoColor=Black)  
-MATLAB || SQL - No fun icons :(
+MATLAB || SQL - No fun icons :(  
+### Other Software  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=Black)
